@@ -1,6 +1,14 @@
 # Curd Operations API
 
-This project implements a RESTful API for performing CRUD operations (Create, Read, Update, Delete) using Node.js, Express, and MongoDB. It provides endpoints to manage textual data, with authentication middleware to secure the endpoints.
+This project implements a RESTful API for performing CRUD operations (Create, Read, Update, Delete) 
+using Node.js, Express, and MongoDB. It provides endpoints to manage textual data, with authentication middleware to secure the endpoints.
+
+## Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+![Express.js](https://img.shields.io/badge/Express.js-4.x-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-Latest-green)
+![Mongoose](https://img.shields.io/badge/Mongoose-Latest-blue)
 
 ## Features
 - **register:** Add a new user to the database.
