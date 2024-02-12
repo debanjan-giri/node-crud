@@ -8,7 +8,7 @@
 
 - PORT=<9090>
 - MONGODB_URI=<your-mongodb-uri>
-- SECRET_KEY=<your-secret-key>
+- JWT_SECRET=<your-secret-key>
 
 #---------------------------------------
 
