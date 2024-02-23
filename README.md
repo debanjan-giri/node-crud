@@ -22,7 +22,7 @@ using Node.js, Express, and MongoDB. It provides endpoints to manage textual dat
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/curd-operations-api.git`
+1. Clone the repository: `git clone git@github.com:debanjan-giri/curd.git`
 2. Navigate to the project directory: `cd curd-operations-api`
 3. Install dependencies: `npm install`
 4. Set up environment variables by creating a `.env` file (with the following content: port, mongo_uri, jwt_secret).
