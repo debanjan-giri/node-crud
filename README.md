@@ -1,4 +1,4 @@
-# Curd Operations API
+# Restful Curd API
 
 This project implements a RESTful API for performing CRUD operations (Create, Read, Update, Delete) 
 using Node.js, Express, and MongoDB. It provides endpoints to manage textual data, with authentication middleware to secure the endpoints.
