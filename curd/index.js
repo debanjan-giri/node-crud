@@ -39,7 +39,7 @@ app.use("/auth", authRoutes);
 app.use("/curd", curdRoutes);
 
 // control any route
-app.get("*", function (req, res, next) {
+app.get(function (req, res, next) {
   try {
     // by default return
     throw Error("page not found");
