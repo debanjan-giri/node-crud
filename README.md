@@ -1,4 +1,4 @@
-# Restful Curd API
+# Restful Crud API
 
 This project implements a RESTful API for performing CRUD operations (Create, Read, Update, Delete) 
 using Node.js, Express, and MongoDB. It provides endpoints to manage textual data, with authentication middleware to secure the endpoints.
@@ -22,8 +22,8 @@ using Node.js, Express, and MongoDB. It provides endpoints to manage textual dat
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: `git@github.com:debanjan-giri/curd.git`
-2. Navigate to the project directory: `cd curd`
+1. Clone the repository: `git@github.com:debanjan-giri/crud.git`
+2. Navigate to the project directory: `cd crud`
 3. Install dependencies: `npm install`
 4. Set up environment variables by creating a `.env` file (with the following content: port, mongo_uri, jwt_secret).
 5. Start the server: `npm start`
